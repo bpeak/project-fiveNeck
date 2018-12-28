@@ -1,0 +1,11 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+#omokCanvas{
+    margin: 100px;
+    border: 1px solid red;
+}
+#btnShowStonePoint{
+    
+}
